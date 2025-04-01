@@ -3,7 +3,7 @@
 Ce document fournit des instructions détaillées sur l'installation et la configuration d'un serveur TrueNAS Scale, couvrant les étapes suivantes :
 
 ## Configuration
-
+- Configurez les groupes et les utilisateurs serveur TrueNAS.
 - SSH : Configurez le service SSH sur votre serveur TrueNAS.
 - SFTP : Configurez le service SFTP pour permettre des transferts de fichiers sécurisés.
 - Vaultwarden : Installez et configurez Vaultwarden, un gestionnaire de mots de passe open-source.
